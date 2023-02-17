@@ -1,4 +1,4 @@
-# QuPath_practice
+# machine learning practice
 QuPathデータを使った機械学習による細胞分類
 
 
